@@ -22775,6 +22775,11 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.9979443550109863,
+                0.9979443550109863,
+                0.9979443550109863
+            ],
             "name" : "CIRCUITO",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
